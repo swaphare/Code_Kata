@@ -1,0 +1,3 @@
+Hamdi     Hamza     30 DC             
+James     John      35 New York       
+Samson    Jack      55 Los Angeles    
