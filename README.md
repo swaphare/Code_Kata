@@ -7,7 +7,8 @@ Data Processing and Anonymization
 The solutions are implemented in Python and include basic engineering principles, testing strategies, and a focus on code beauty.
 
 Problem 1:
-To run this file got to present working directory 
+To run this file go to present working directory 
+
 docker-compose build  
 docker-compose up 
 
